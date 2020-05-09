@@ -49,7 +49,11 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 Algunas empresas pudieron adaptarse a través de la reorganización, el nuevo liderazgo y los planes comerciales redefinidos, convirtiéndolos en los sobrevivientes de la burbuja de las puntocom.
 "Las acciones tecnológicas una vez fueron consideradas únicas y diferentes, una industria que crecería rápidamente y soportarían apreciaciones extraordinariamente altas", dijo Ken Allen, gestor de inversiones en T. Rowe Price.
 
-## Web 4.0 by Participant 3
+## Web 4.0 by Linda Castillo
+
+Es necesario un cambio de paradigma, un nuevo modelo de Internet. La Web 4.0 propone un nuevo modelo de interacción con el usuario más completo y personalizado, no limitándose simplemente a mostrar información, sino comportándose como un espejo mágico que dé soluciones concretas a las necesidades del navegante.
+
+Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades. Es un nuevo modelo de Internet que nace con el objetivo de resolver las limitaciones de la red a día de hoy.
 
 ### Main features
  - Feature 1 ...
