@@ -97,6 +97,8 @@ A partir del desarrollo de las tecnologías informáticas y de telecomunicacione
 
 La aparición de los capitalistas de riesgo, con su accionar llevaron a la cotización de los valores bursátiles de empresas tecnológicas a niveles inéditamente altos, debido a un factor fundamental en el proceso de valoración: las expectativas. En otras palabras, los capitalistas de riesgo apostaban a que el crecimiento y el éxito de las empresas de la nueva economía se viera rápidamente recompensado por subidas en las cotizaciones de sus títulos.
 
+Un cambio de expectativas sobre las empresas puntocoms y tecnológicas en general debido a que los inversionistas comenzaron a notar que los principios de la nueva economía no eran tan distintos a los de la vieja, que era necesario que el dinero invertido en empresas emergentes se recuperase en un plazo razonable y que los modelos de negocios basados en el B2C subestimaron la complejidad y los costos de logística y distribución, y sobreestimaron algunos efectos de la economía en red de difícil comprobación empírica: la economía de la abundancia y la premisa de prestar servicios gratuitos porque la red recompensa la gratuidad.
+
 ### Main features
 
 La aparición de los capitalistas de riesgo, con su accionar llevaron a la cotización de los valores bursátiles de empresas tecnológicas a niveles inéditamente altos, debido a un factor fundamental en el proceso de valoración: las expectativas. En otras palabras, los capitalistas de riesgo apostaban a que el crecimiento y el éxito de las empresas de la nueva economía se viera rápidamente recompensado por subidas en las cotizaciones de sus títulos.
