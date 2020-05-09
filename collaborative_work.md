@@ -1,16 +1,20 @@
 # Summary of Activity 1
 
 
-## Web Neutrality by Participant 1
+## Web Neutrality by Linda Castillo
 
 ### What is it?
+La neutralidad de red es el principio por el cual los proveedores de servicios de Internet y los gobiernos que la regulan deben tratar a todo tráfico de datos que transita por la red de igual forma indiscriminadamente, sin cobrar a los usuarios una tarifa dependiendo del contenido, página web, plataforma o aplicación a la que accedan. Ni según el tipo de equipamiento, dispositivo o método de comunicación que utilizan para el acceso
 
 ### Advantages
-  - Advantage 1
-  - Advantage 2
-  - ...
+  - Internet Libre (Open Internet)
+  - Servicios “zero rating”
+  - Competencia de mercado
 
 ### Disadvantages
+Discriminación por protocolo
+Discriminación por dirección IP
+Favorecer las redes privadas
 
 
 ## Dot-com bubble by Julio Villacis
