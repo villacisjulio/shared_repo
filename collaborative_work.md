@@ -59,11 +59,18 @@ Es necesario un cambio de paradigma, un nuevo modelo de Internet. La Web 4.0 pro
 Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades. Es un nuevo modelo de Internet que nace con el objetivo de resolver las limitaciones de la red a día de hoy.
 
 ### Main features
- - Feature 1 ...
- - Feature 2 ...
- - ...
-
+ - Podremos dialogar de forma natural y en linea con una agente virtual inteligente. 
+ - Internet: Se accederá por medios de un “dispositivo, delgado, ligero, portátil y con muy alta resolución”. 
+ - Integrado en los vehículos
+ - Un modelo de interacción con el usuario completo y personalizado.
+ 
 ### Example of opportunities
+Acceso de información, imágenes, audios, videos, juegos, etc.
+Se pueden realizar pagos, trámites y en algunas escuelas existe el servicio de tareas y notas desde internet-
+La comprensión del lenguaje natural y tecnologías Speech to text (de voz a texto y viceversa)
+Nuevos sistemas de comunicación máquina a máquina (M2M)
+Uso de la información de contexto. Por ejemplo, ubicación que aporta el GPS, ritmo cardiaco que tu smartwatch registra, etc
+
 
 
 ## Web 3.0 by Karen Segura
