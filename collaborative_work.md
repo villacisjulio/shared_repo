@@ -1,10 +1,21 @@
 # Summary of Activity 1
 
 
+<<<<<<< HEAD
 ## Web Neutrality by Linda Castillo
 
 ### What is it?
 La neutralidad de red es el principio por el cual los proveedores de servicios de Internet y los gobiernos que la regulan deben tratar a todo tráfico de datos que transita por la red de igual forma indiscriminadamente, sin cobrar a los usuarios una tarifa dependiendo del contenido, página web, plataforma o aplicación a la que accedan. Ni según el tipo de equipamiento, dispositivo o método de comunicación que utilizan para el acceso
+=======
+## Web Neutrality by JEAN TAPIA
+
+### What is it?
+Término que se refiere a un período de crecimiento en los valores económicos de empresas vinculadas a Internet. 
+Esta corriente económica especulativa muy fuerte se dio entre 1997 y 2001. 
+Durante este período, las bolsas de valores de las naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de Internet y a la llamada nueva economía. 
+Al pasar el tiempo, muchas de estas empresas quebraron o dejaron de operar.
+
+>>>>>>> d58e13b4749a88322bff09ce8820f476ea63e158
 
 ### Advantages
   - Internet Libre (Open Internet)
