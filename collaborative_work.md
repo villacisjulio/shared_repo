@@ -10,12 +10,19 @@ La neutralidad de red es el principio por el cual los proveedores de servicios d
 ## Web Neutrality by JEAN TAPIA
 
 ### What is it?
+
 Término que se refiere a un período de crecimiento en los valores económicos de empresas vinculadas a Internet. 
 Esta corriente económica especulativa muy fuerte se dio entre 1997 y 2001. 
+
 Durante este período, las bolsas de valores de las naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de Internet y a la llamada nueva economía. 
 Al pasar el tiempo, muchas de estas empresas quebraron o dejaron de operar.
 
+<<<<<<< HEAD
 >>>>>>> d58e13b4749a88322bff09ce8820f476ea63e158
+=======
+https://es.wikipedia.org/wiki/Burbuja_puntocom
+
+>>>>>>> efacd714d70b96005822a66a0067097e6d0a563d
 
 ### Advantages
   - Internet Libre (Open Internet)
@@ -52,21 +59,34 @@ Algunas empresas pudieron adaptarse a través de la reorganización, el nuevo li
 ### Example of opportunities
 
 
-## Web 3.0 by Participant 4
+## Web 3.0 by Karen Segura
 
+La Web 3.0 se encarga de definir el significado de las palabras y facilitar que un contenido Web pueda ser portador de un significado adicional que va más allá del propio significado textual de dicho contenido
+
+Oportunidades 
+Desde el punto de vista del marketing, esta Web 3.0, permite construir un mensaje publicitario que será difundido mediante una tecnología digital avanzada.
+
+La codificación semántica de dicho mensaje puede incluir información no presente a simple vista para el usuario.
+
+Efectivamente, las tecnologías de la Web 3.0, que utilizan datos semánticos, se han implementado y usado a pequeña escala en compañías para conseguir una acumulación y personalización de datos más eficiente, como por ejemplo cualquier empresa que sepa implementar una estrategia 3.0
+
+
+Aplicaciones de la Web 3.0 en Biomedicina
+Las aplicaciones que puede tener en Biomedicina la Web 3.0, relacionadas con el acceso y la gestión de la información, son diversas y de gran interés. Las herramientas propuestas para conseguir que la información en Internet esté organizada de una forma más comprensible y asequible no son únicas y seguramente se desarrollarán paralelamente, y se crearán perfiles e intereses “a la carta” para el usuario, incluso pueden aparecer nuevas soluciones que ahora son impensables. Sin embargo, todas ellas tienen en común que persiguen un mismo objetivo: hacer posible un acceso sencillo y rápido a información relevante en la red, economizar el tiempo de búsqueda y evitar el abundante ruido informativo, que constituye, en la actualidad, uno de los problemas más preocupantes de Internet y que en temas de salud puede tener una especial relevancia, tanto por el interés creciente que despierta este tipo de información por su extraordinaria abundancia como por las potenciales repercusiones, tanto positivas como negativas del acceso a información de calidad muy variable y a los múltiples servicios de salud actuales y futuros que nos puede ofrecer este medio
+
+
+### Example of opportunities
+
+
+## Web 2.0 by OMAR CRUZ M
+Existe también un sentido más generalizado que surgió al poco de extenderse el término web 2.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 3.0.
 ### Main features
 
 ### Example of opportunities
 
 
-## Web 2.0 by Participant 5
-
-### Main features
-
-### Example of opportunities
-
-
-## Web 1.0 by Participant 6
+## Web 1.0 by Mariella Lindao
+Existe también un sentido más generalizado que surgió al poco de extenderse el término web 1.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 1.0.
 
 ### Main features
 
