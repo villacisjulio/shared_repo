@@ -60,30 +60,39 @@ Es necesario un cambio de paradigma, un nuevo modelo de Internet. La Web 4.0 pro
 Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades. Es un nuevo modelo de Internet que nace con el objetivo de resolver las limitaciones de la red a día de hoy.
 
 ### Main features
- - Feature 1 ...
- - Feature 2 ...
- - ...
-
+ - Podremos dialogar de forma natural y en linea con una agente virtual inteligente. 
+ - Internet: Se accederá por medios de un “dispositivo, delgado, ligero, portátil y con muy alta resolución”. 
+ - Integrado en los vehículos
+ - Un modelo de interacción con el usuario completo y personalizado.
+ 
 ### Example of opportunities
+Acceso de información, imágenes, audios, videos, juegos, etc.
+Se pueden realizar pagos, trámites y en algunas escuelas existe el servicio de tareas y notas desde internet-
+La comprensión del lenguaje natural y tecnologías Speech to text (de voz a texto y viceversa)
+Nuevos sistemas de comunicación máquina a máquina (M2M)
+Uso de la información de contexto. Por ejemplo, ubicación que aporta el GPS, ritmo cardiaco que tu smartwatch registra, etc
+
 
 
 ## Web 3.0 by Karen Segura
 
-La Web 3.0 se encarga de definir el significado de las palabras y facilitar que un contenido Web pueda ser portador de un significado adicional que va más allá del propio significado textual de dicho contenido
+Se encarga de definir el significado de las palabras y facilitar que un contenido Web pueda ser portador de un significado adicional que va más allá del propio significado textual de dicho contenido
 
-Oportunidades 
-Desde el punto de vista del marketing, esta Web 3.0, permite construir un mensaje publicitario que será difundido mediante una tecnología digital avanzada.
+
+Example of opportunities
+
+
+*Desde el punto de vista del marketing, esta Web 3.0, permite construir un mensaje publicitario que será difundido mediante una tecnología digital avanzada.
 
 La codificación semántica de dicho mensaje puede incluir información no presente a simple vista para el usuario.
+
+
+*Web 3.0 en Biomedicina
+Las aplicaciones que puede tener en Biomedicina la Web 3.0, relacionadas con el acceso y la gestión de la información, son diversas y de gran interés. Las herramientas propuestas para conseguir que la información en Internet esté organizada de una forma más comprensible y asequible no son únicas y seguramente se desarrollarán paralelamente, y se crearán perfiles e intereses “a la carta” para el usuario, incluso pueden aparecer nuevas soluciones que ahora son impensables. Sin embargo, todas ellas tienen en común que persiguen un mismo objetivo: hacer posible un acceso sencillo y rápido a información relevante en la red, economizar el tiempo de búsqueda y evitar el abundante ruido informativo, que constituye, en la actualidad, uno de los problemas más preocupantes de Internet y que en temas de salud puede tener una especial relevancia, tanto por el interés creciente que despierta este tipo de información por su extraordinaria abundancia como por las potenciales repercusiones, tanto positivas como negativas del acceso a información de calidad muy variable y a los múltiples servicios de salud actuales y futuros que nos puede ofrecer este medio
 
 Efectivamente, las tecnologías de la Web 3.0, que utilizan datos semánticos, se han implementado y usado a pequeña escala en compañías para conseguir una acumulación y personalización de datos más eficiente, como por ejemplo cualquier empresa que sepa implementar una estrategia 3.0
 
 
-Aplicaciones de la Web 3.0 en Biomedicina
-Las aplicaciones que puede tener en Biomedicina la Web 3.0, relacionadas con el acceso y la gestión de la información, son diversas y de gran interés. Las herramientas propuestas para conseguir que la información en Internet esté organizada de una forma más comprensible y asequible no son únicas y seguramente se desarrollarán paralelamente, y se crearán perfiles e intereses “a la carta” para el usuario, incluso pueden aparecer nuevas soluciones que ahora son impensables. Sin embargo, todas ellas tienen en común que persiguen un mismo objetivo: hacer posible un acceso sencillo y rápido a información relevante en la red, economizar el tiempo de búsqueda y evitar el abundante ruido informativo, que constituye, en la actualidad, uno de los problemas más preocupantes de Internet y que en temas de salud puede tener una especial relevancia, tanto por el interés creciente que despierta este tipo de información por su extraordinaria abundancia como por las potenciales repercusiones, tanto positivas como negativas del acceso a información de calidad muy variable y a los múltiples servicios de salud actuales y futuros que nos puede ofrecer este medio
-
-
-### Example of opportunities
 
 
 ## Web 2.0 by OMAR CRUZ M
