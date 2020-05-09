@@ -4,13 +4,14 @@
 ## Web Neutrality by JEAN TAPIA
 
 ### What is it?
+
 Término que se refiere a un período de crecimiento en los valores económicos de empresas vinculadas a Internet. 
 Esta corriente económica especulativa muy fuerte se dio entre 1997 y 2001. 
+
 Durante este período, las bolsas de valores de las naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de Internet y a la llamada nueva economía. 
 Al pasar el tiempo, muchas de estas empresas quebraron o dejaron de operar.
 
 https://es.wikipedia.org/wiki/Burbuja_puntocom
-
 
 
 ### Advantages
