@@ -42,9 +42,21 @@ Algunas empresas pudieron adaptarse a través de la reorganización, el nuevo li
 ### Example of opportunities
 
 
-## Web 3.0 by Participant 4
+## Web 3.0 by Karen Segura
 
-### Main features
+La Web 3.0 se encarga de definir el significado de las palabras y facilitar que un contenido Web pueda ser portador de un significado adicional que va más allá del propio significado textual de dicho contenido
+
+Oportunidades 
+Desde el punto de vista del marketing, esta Web 3.0, permite construir un mensaje publicitario que será difundido mediante una tecnología digital avanzada.
+
+La codificación semántica de dicho mensaje puede incluir información no presente a simple vista para el usuario.
+
+Efectivamente, las tecnologías de la Web 3.0, que utilizan datos semánticos, se han implementado y usado a pequeña escala en compañías para conseguir una acumulación y personalización de datos más eficiente, como por ejemplo cualquier empresa que sepa implementar una estrategia 3.0
+
+
+Aplicaciones de la Web 3.0 en Biomedicina
+Las aplicaciones que puede tener en Biomedicina la Web 3.0, relacionadas con el acceso y la gestión de la información, son diversas y de gran interés. Las herramientas propuestas para conseguir que la información en Internet esté organizada de una forma más comprensible y asequible no son únicas y seguramente se desarrollarán paralelamente, y se crearán perfiles e intereses “a la carta” para el usuario, incluso pueden aparecer nuevas soluciones que ahora son impensables. Sin embargo, todas ellas tienen en común que persiguen un mismo objetivo: hacer posible un acceso sencillo y rápido a información relevante en la red, economizar el tiempo de búsqueda y evitar el abundante ruido informativo, que constituye, en la actualidad, uno de los problemas más preocupantes de Internet y que en temas de salud puede tener una especial relevancia, tanto por el interés creciente que despierta este tipo de información por su extraordinaria abundancia como por las potenciales repercusiones, tanto positivas como negativas del acceso a información de calidad muy variable y a los múltiples servicios de salud actuales y futuros que nos puede ofrecer este medio
+
 
 ### Example of opportunities
 
