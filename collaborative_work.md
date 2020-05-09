@@ -93,8 +93,16 @@ Existe también un sentido más generalizado que surgió al poco de extenderse e
 
 ## Web 5.0 by Mariella Lindao
 
-Existe también un sentido más generalizado que surgió al poco de extenderse el término web 5.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 5.0. DTM75
+Existe también un sentido más generalizado que surgió al poco de extenderse el término web 5.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 5.0. 
+
+A partir del desarrollo de las tecnologías informáticas y de telecomunicaciones, los mercados financieros se fueron globalizando e intercomunicando, de manera que pasaron a formar un mercado global e interdependiente, operado por redes informáticas en tiempo real. 
+El éxito se originó gracias a la creación de empresas tecnológicas las cuales obtuvieron rápidos ingresos de su valor debido al crecimiento con una baja inversion.
+La dificultad de valorar estas empresas en su salida a bolsa era lo que propisiaba que el precio de sus acciones se disparará vertiginosamente.
 
 ### Main features
+
+A partir del desarrollo de las tecnologías informáticas y de telecomunicaciones, los mercados financieros se fueron globalizando e intercomunicando, de manera que pasaron a formar un mercado global e interdependiente, operado por redes informáticas en tiempo real. 
+El éxito se originó gracias a la creación de empresas tecnológicas las cuales obtuvieron rápidos ingresos de su valor debido al crecimiento con una baja inversion.
+La dificultad de valorar estas empresas en su salida a bolsa era lo que propisiaba que el precio de sus acciones se disparará vertiginosamente.
 
 ### Example of opportunities
