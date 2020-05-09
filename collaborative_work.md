@@ -49,6 +49,9 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 Algunas empresas pudieron adaptarse a través de la reorganización, el nuevo liderazgo y los planes comerciales redefinidos, convirtiéndolos en los sobrevivientes de la burbuja de las puntocom.
 "Las acciones tecnológicas una vez fueron consideradas únicas y diferentes, una industria que crecería rápidamente y soportarían apreciaciones extraordinariamente altas", dijo Ken Allen, gestor de inversiones en T. Rowe Price.
 
+## Web 5.0 by Mariella Lindao
+Existe también un sentido más generalizado que surgió al poco de extenderse el término web 5.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 5.0. CCC
+
 ## Web 4.0 by Linda Castillo
 
 Es necesario un cambio de paradigma, un nuevo modelo de Internet. La Web 4.0 propone un nuevo modelo de interacción con el usuario más completo y personalizado, no limitándose simplemente a mostrar información, sino comportándose como un espejo mágico que dé soluciones concretas a las necesidades del navegante.
@@ -94,10 +97,6 @@ Existe también un sentido más generalizado que surgió al poco de extenderse e
 ### Main features
 
 ### Example of opportunities
-
-
-## Web 5.0 by Mariella Lindao
-Existe también un sentido más generalizado que surgió al poco de extenderse el término web 1.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 1.0.
 
 ### Main features
 
