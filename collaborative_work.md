@@ -93,7 +93,7 @@ Existe también un sentido más generalizado que surgió al poco de extenderse e
 
 ## Web 5.0 by Mariella Lindao
 
-Existe también un sentido más generalizado que surgió al poco de extenderse el término web 5.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 5.0. DTM7
+Existe también un sentido más generalizado que surgió al poco de extenderse el término web 5.0, de la mano de profesionales que sabedores del potencial que suponía la interconexión global que se estaba produciendo, deseaban que este desarrollo técnico y tecnológico repercutiera de forma positiva en el desarrollo sostenible, y de ahí que se empezara a identificar a esta necesaria y obligada evolución de la web que se estaba desarrollando y definiendo como web 2.0 de una forma similar pero claramente en un punto superior de evolución, de ahí que surgiera la denominación Web 5.0. DTM75
 
 ### Main features
 
